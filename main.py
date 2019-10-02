@@ -13,6 +13,9 @@
 git push -u origin master
 cat .git/config
 https://github.com/zwodek01/test.git
+https://github.com/zwodek01/A.git
+https://github.com/zwodek01/A.git
+https://github.com/zwodek01/A.git
 """
 
 
